@@ -2,7 +2,7 @@
 
 ## Project scope
 <p align="justify">
-  I've created simple binnary classifier in Python3 which uses logisitc regression algorithm to classify two classes of credit card transactions<p>
+  I've created simple binary classifier in Python3 which uses logistic regression algorithm to classify two classes of credit card transactions<p>
     
 1. fraud transactions
 2. non-fraud transactions
@@ -19,7 +19,7 @@
   
 ## Motivation
   
-<p align="justify"> Project created for training. I've learned how to deal with unbalanced datasets and how improve binary classifiers performance. I've alse explored meaning of particular metrics used in machine learning. <p>
+<p align="justify"> Project created for training. I've learned how to deal with unbalanced datasets and how to improve binary classifiers performance. I've also explored the meaning of particular metrics used in machine learning. <p>
   
 ## Used packages
   
@@ -27,7 +27,7 @@
   *   Numpy
   *   Seaborn
   *   Matplotlib
-  *   Scikitlearn
+  *   Scikit Learn
   
 ## Links
 
