@@ -15,7 +15,6 @@
   * standardization
   * ROC and AUC
   * hyperparameters tuning
-  * 
   
   
   
