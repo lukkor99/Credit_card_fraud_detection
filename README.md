@@ -36,7 +36,6 @@
   
 ## Links
 
-  * [Image source](https://www.dignited.com/wp-content/uploads/2018/10/Credit-Card-Fraud-768x512.jpg)
   * [Datasets source](https://www.kaggle.com/mlg-ulb/creditcardfraud)
   * [Oversampling and Undersampling](https://en.wikipedia.org/wiki/Oversampling_and_undersampling_in_data_analysis)
   * [Understanding AUC - ROC Curve](https://towardsdatascience.com/understanding-auc-roc-curve-68b2303cc9c5)
