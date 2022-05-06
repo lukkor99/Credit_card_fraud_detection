@@ -1,4 +1,4 @@
-# Credit Card Fraud Detection | Logistic Regression 
+# Credit Card Fraud Detection | Binary Classification
 
 ## Project scope
 <p align="justify">
