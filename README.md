@@ -10,7 +10,7 @@
 <p align="justify"> Techniques and tools used to improve models performance:
 <p>
     
-  * undersampling and oversampling
+  * undersampling and oversampling, synthetic minority oversampling
   * feature selection
   * standardization
   * ROC and AUC
